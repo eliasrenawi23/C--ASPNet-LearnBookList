@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KSId8b/eVD4yDxd4BCqsd8wTayAEUyQH5OoxhS34uOp8bdRUbGQR8Cq9aRsM3tdAUQ+4HKx+SCd/1BVg0Oie7Q==",
+  "dgSpecHash": "mp/D7YWzouNB7BAw06p15PBKmHPmDgSGmbRo6N16CaO5BLhchSqXmuXsRKYJXhcK+zSlUWvsumoaECQCN3QdIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\123\\source\\repos\\EliasWebApp\\EliasWebApp\\EliasWebApp.csproj",
+  "projectFilePath": "C:\\Users\\123\\Documents\\GitHub\\C#-ASPNet LearnBookList\\EliasWebApp\\EliasWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\123\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.0.0\\microsoft.aspnetcore.mvc.razor.extensions.3.0.0.nupkg.sha512",
     "C:\\Users\\123\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\3.0.0\\microsoft.aspnetcore.mvc.razor.runtimecompilation.3.0.0.nupkg.sha512",

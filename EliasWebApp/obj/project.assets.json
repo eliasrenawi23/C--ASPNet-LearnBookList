@@ -5349,11 +5349,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\123\\source\\repos\\EliasWebApp\\EliasWebApp\\EliasWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\123\\Documents\\GitHub\\C#-ASPNet LearnBookList\\EliasWebApp\\EliasWebApp.csproj",
       "projectName": "EliasWebApp",
-      "projectPath": "C:\\Users\\123\\source\\repos\\EliasWebApp\\EliasWebApp\\EliasWebApp.csproj",
+      "projectPath": "C:\\Users\\123\\Documents\\GitHub\\C#-ASPNet LearnBookList\\EliasWebApp\\EliasWebApp.csproj",
       "packagesPath": "C:\\Users\\123\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\123\\source\\repos\\EliasWebApp\\EliasWebApp\\obj\\",
+      "outputPath": "C:\\Users\\123\\Documents\\GitHub\\C#-ASPNet LearnBookList\\EliasWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\123\\AppData\\Roaming\\NuGet\\NuGet.Config",
